@@ -5,11 +5,11 @@ Completed on the 12th of May 2020.
 
 Prerequisites:
 
-1.Latest .NET Core SDK  https://dotnet.microsoft.com/download/dotnet-core/3.1
+[1.Latest .NET Core SDK](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 
-2.Visual Studio 2019  https://visualstudio.microsoft.com/downloads/
+[2.Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
 
-3.Azure subscription  https://azure.microsoft.com/en-in/free/
+[3.Azure subscription](https://azure.microsoft.com/en-in/free/)
 
 
 Step by step documentation provided in romanian.
