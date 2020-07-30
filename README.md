@@ -14,4 +14,8 @@ Prerequisites:
 
 Step by step documentation provided in romanian.
 
-Notice: BlazorComputerVision/Data-> ComputerVisionService.cs requires your own subscriptionKey and URL endpoint for calling the Azure API. You'll need an Azure subscription for this.
+* Notice:
+```
+BlazorComputerVision/Data-> ComputerVisionService.cs requires your own subscriptionKey and URL endpoint 
+for calling the Azure API. You'll need an Azure subscription for this.
+```
