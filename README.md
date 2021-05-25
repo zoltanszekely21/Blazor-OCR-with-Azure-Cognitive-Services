@@ -1,7 +1,7 @@
-# Blazor-OCR-with-Azure-Cognitive-Services--University-project
+# Blazor-OCR-with-Azure-Cognitive-Services
 Blazor object character recognition (OCR) application using an Azure Computer Vision API to detect printed text in an image.
 
-Completed on the 12th of May 2020.
+University project for Advanced programming techniques (C#) course.
 
 Prerequisites:
 
